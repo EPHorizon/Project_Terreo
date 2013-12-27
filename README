@@ -1,1 +1,5 @@
-This is a further test
+This repo contains the current versions of the scripts used for the ScareRide.
+
+Some of the codding is a bit messy, and a a few bits have not been fully updated, but they all work well enough.
+
+All are written in Python 2.7, and designed for the Raspberry Pi.
